@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "878968752479",
+    "firebase_url": "https://uportal-dadd7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uportal-dadd7",
+    "storage_bucket": "uportal-dadd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878968752479:android:e4885aafa7dbdd39638eea",
+        "android_client_info": {
+          "package_name": "com.example.uportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878968752479-0u61v814kipjer756agfiguc74pln7oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt_pHsi6sz35euI_HcvPqxdCdRbpsDiLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878968752479-0u61v814kipjer756agfiguc74pln7oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
